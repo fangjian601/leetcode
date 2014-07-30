@@ -1,4 +1,4 @@
-package me.fangjian.leetcode.string.break2;
+package me.fangjian.leetcode.string.wordbreak2;
 
 import org.testng.annotations.Test;
 
